@@ -7,13 +7,13 @@ The task is quite a simple one. This repository will contain names of all the pe
 
 .. and so on.
 
-##Instructions :-
+## Instructions
 
 1. Fork this repo, and clone it.
-2. Create a seperate branch from the master branch.
+2. Create a seperate branch from the master branch, in your local repo.
 3. Now make your respective changes to the README file.
 4. Add, and commit those changes. The commit message should be "Updated README.md".
-5. Make a Pull Request. Remember, write proper Pull Request description.
+5. Push the changes to the remote repo, by making a Pull Request. Remember, write proper Pull Request description.
 
 Feel free to ping either me or Vivek, if you guys have any problem.
 Happy Coding..!!
