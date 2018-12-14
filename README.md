@@ -1,2 +1,19 @@
 # Task_1
-Task for IITG.FOSS members for Week 1.
+
+The task is quite a simple one. This repository will contain names of all the people, who are members of **IITG.FOSS**. You guys have to update the list which is given below, and add your GitHub profiles, as hyprelinks.
+
+1. [Arighna Chakrabarty](https://github.com/ArighnaIITG)
+2. [Vivek Raj](https://github.com/codervivek)
+
+.. and so on.
+
+##Instructions :-
+
+1. Fork this repo, and clone it.
+2. Create a seperate branch from the master branch.
+3. Now make your respective changes to the README file.
+4. Add, and commit those changes. The commit message should be "Updated README.md".
+5. Make a Pull Request. Remember, write proper Pull Request description.
+
+Feel free to ping either me or Vivek, if you guys have any problem.
+Happy Coding..!!
